@@ -28,7 +28,7 @@ stealth(driver,
         )
 
 driver.set_page_load_timeout(10)
-driver.get('https://na.finalfantasyxiv.com/lodestone/ranking/frontline/weekly/?filter=1&dcgroup=Primal')
+driver.get('<your url>')
 driver.execute_script("window.scrollTo(0, 530)")
 
 png = driver.get_screenshot_as_png()  # saves screenshot of entire page
