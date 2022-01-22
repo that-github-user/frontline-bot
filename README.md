@@ -2,7 +2,8 @@
 Your general purpose information and meme bot for Final Fantasy XIV's PvP modes.
 
 ## Contributors
-Ulto Destructo @ Lamia
-Elena Harbruck @ Ultros
-Takume Fujiwara @  Ultros
+- Ulto Destructo @ Lamia (Coder)
+- Takume Fujiwara @  Ultros (Copypasta)
+- Elena Harbruck @ Ultros (Copypasta extraordinaire)
+- Neon Nibbler @ Behemoth (Copypasta)
 
