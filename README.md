@@ -7,3 +7,5 @@ Your general purpose information and meme bot for Final Fantasy XIV's PvP modes.
 - Elena Harbruck @ Ultros (Copypasta extraordinaire)
 - Neon Nibbler @ Behemoth (Copypasta)
 
+## Discord
+Used in: [PvPrimal](https://www.discord.gg/pvprimal).
